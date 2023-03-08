@@ -3,8 +3,6 @@
 
 // 2) Com base no exercicio anterior, classifique o grafo como: euleriano, atravessável ou não euleriano
 
-// 3) Modifique o programa do exemplo anterior para armazenar grafos direcionados
-
 #include<stdio.h>
 #define x 5
 
